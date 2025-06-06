@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I treat real-life bugs like Clash traps — spot, fix, and level up**
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniket-ambilwade-b72b01257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-ambilwade-b72b01257" height="30" width="40" /></a>
