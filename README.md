@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Ambilwade</h1>
-<h3 align="center">Upgrading skills like it's TH15 (coc folks)</h3>
+<h3 align="center">Upgrading skills like it's TH15 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algoalchemist04&label=Profile%20views&color=0e75b6&style=flat" alt="algoalchemist04" /> </p>
 
